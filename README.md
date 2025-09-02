@@ -1,4 +1,4 @@
-This project was developed for the course "Computer Methods for Business Management" at the University of Milano-Bicocca (Unimib).
+This project was developed for the course "Metodi Informatici per la Gestione Aziendale" at the University of Milano-Bicocca (Unimib).
 The goal was to implement different types of Recommendation Systems using Amazon product reviews datasets.
 The project was carried out up to the advanced level, including:
 Collaborative Filtering (KNN-based, Matrix Factorization)
